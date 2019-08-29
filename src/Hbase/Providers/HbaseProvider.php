@@ -3,7 +3,7 @@
 namespace Lzx\Utils\Hbase\Providers;
 
 
-use Feng\Utils\Hbase\HbaseUtil;
+use Lzx\Utils\Hbase\HbaseUtil;
 use Illuminate\Support\ServiceProvider;
 
 class HbaseProvider extends ServiceProvider
