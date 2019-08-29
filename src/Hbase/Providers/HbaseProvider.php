@@ -17,7 +17,7 @@ class HbaseProvider extends ServiceProvider
 
         $this->app->configure(self::CONFIG_KEY);
 
-        $configPath = __DIR__ . '/../../../config/feng_hbase.php';
+        $configPath = __DIR__ . '/../../config/feng_hbase.php';
         $this->mergeConfigFrom($configPath, self::CONFIG_KEY);
 
         $this->app->singleton('fenghbaseutil', function ($app) {
