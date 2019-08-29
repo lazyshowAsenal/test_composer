@@ -1,6 +1,6 @@
 <?php
 
-namespace Feng\Utils\Hbase;
+namespace Lzx\Utils\Hbase;
 
 ini_set('display_errors', E_ALL);
 $GLOBALS['THRIFT_ROOT'] = __DIR__;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Feng\Utils\Hbase\Facades;
+namespace Lzx\Utils\Hbase\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

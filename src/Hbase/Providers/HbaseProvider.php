@@ -1,6 +1,6 @@
 <?php
 
-namespace Feng\Utils\Hbase\Providers;
+namespace Lzx\Utils\Hbase\Providers;
 
 
 use Feng\Utils\Hbase\HbaseUtil;
